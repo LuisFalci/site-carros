@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estoque de Carros</title>
+    <style>
+        :root {
+            --primary-color: #0056b3;
+            --bg-color: #f4f7f6;
+            --card-bg: #ffffff;
+            --text-color: #333;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--primary-color);
+        }
+
+        /* Área de Filtros */
+        .filtros-container {
+            background-color: var(--card-bg);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: flex-end;
+        }
+
+        .filtro-grupo {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            min-width: 150px;
+        }
+
+        .filtro-grupo label {
+            font-weight: bold;
+            margin-bottom: 5px;
+            font-size: 0.9em;
+        }
+
+        .filtro-grupo input, .filtro-grupo select {
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background-color: #004494;
+        }
+
+        /* Grid de Cards */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+
+        .card-info {
+            font-size: 0.9em;
+            margin-bottom: 5px;
+            line-height: 1.4;
+        }
+
+        .card-info span {
+            font-weight: bold;
+        }
+
+        .card-price {
+            font-size: 1.4em;
+            font-weight: bold;
+            color: #28a745;
+            margin-top: 15px;
+            text-align: right;
+        }
+
+        .card-link {
+            margin-top: 15px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #e9ecef;
+            color: var(--text-color);
+            padding: 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+
+        .card-link:hover {
+            background-color: #d3d9df;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Veículos Disponíveis</h1>
+
+    <div class="filtros-container">
+        <div class="filtro-grupo">
+            <label for="filtro-cambio">Câmbio</label>
+            <select id="filtro-cambio">
+                <option value="">Todos</option>
+                <option value="Manual">Manual</option>
+                <option value="Automático">Automático</option>
+            </select>
+        </div>
+        <div class="filtro-grupo">
+            <label for="filtro-preco">Preço Máximo (R$)</label>
+            <input type="number" id="filtro-preco" placeholder="Ex: 80000">
+        </div>
+        <div class="filtro-grupo">
+            <label for="filtro-km">KM Máxima</label>
+            <input type="number" id="filtro-km" placeholder="Ex: 50000">
+        </div>
+        <div class="filtro-grupo">
+            <label for="filtro-ano-modelo">Ano Modelo (a partir de)</label>
+            <input type="number" id="filtro-ano-modelo" placeholder="Ex: 2020">
+        </div>
+        <div class="filtro-grupo">
+            <label for="filtro-ano-fab">Ano Fabricação (a partir de)</label>
+            <input type="number" id="filtro-ano-fab" placeholder="Ex: 2019">
+        </div>
+        <button onclick="aplicarFiltros()">Filtrar</button>
+        <button onclick="limparFiltros()" style="background-color: #6c757d;">Limpar</button>
+    </div>
+
+    <div class="cards-grid" id="cards-container">
+        </div>
+
+    <script>
+        let carros = []; // Armazenará os dados do JSON
+
+        // Função para converter string de preço ("R$76.900,00") para número (76900.00)
+        function parsePreco(precoStr) {
+            if (!precoStr) return 0;
+            return parseFloat(precoStr.replace('R$', '').replace(/\./g, '').replace(',', '.'));
+        }
+
+        // Função para converter string de KM ("59.000 km") para número (59000)
+        function parseKm(kmStr) {
+            if (!kmStr) return 0;
+            return parseInt(kmStr.replace(' km', '').replace(/\./g, ''));
+        }
+
+        // Carrega o JSON assim que a página abre
+        fetch('estoque_carros_detalhado.json')
+            .then(response => response.json())
+            .then(data => {
+                carros = data;
+                
+                // ORDENAÇÃO INICIAL: Do menor para o maior preço ao carregar a página
+                carros.sort((a, b) => parsePreco(a.preco) - parsePreco(b.preco));
+                
+                renderizarCards(carros);
+            })
+            .catch(error => {
+                console.error("Erro ao carregar o JSON:", error);
+                document.getElementById('cards-container').innerHTML = "<p>Erro ao carregar os dados. Certifique-se de estar rodando um servidor local.</p>";
+            });
+
+        // Função para desenhar os cards na tela
+        function renderizarCards(listaCarros) {
+            const container = document.getElementById('cards-container');
+            container.innerHTML = ''; // Limpa os resultados anteriores
+
+            if (listaCarros.length === 0) {
+                container.innerHTML = '<p>Nenhum veículo encontrado com estes filtros.</p>';
+                return;
+            }
+
+            listaCarros.forEach(carro => {
+                const card = document.createElement('div');
+                card.className = 'card';
+
+                card.innerHTML = `
+                    <div class="card-title">${carro.Marca} ${carro.Modelo}</div>
+                    <div class="card-info"><span>Versão:</span> ${carro.Versão}</div>
+                    <div class="card-info"><span>Câmbio:</span> ${carro["Câmbio"]}</div>
+                    <div class="card-info"><span>Ano (Fab/Mod):</span> ${carro["Ano Fabricação"]}/${carro["Ano Modelo"]}</div>
+                    <div class="card-info"><span>KM:</span> ${carro.Quilometragem}</div>
+                    <div class="card-info"><span>Cor:</span> ${carro.Cor}</div>
+                    <div class="card-price">${carro.preco}</div>
+                    <a href="${carro.url}" target="_blank" class="card-link">Ver Anúncio</a>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        // Função para aplicar as regras de filtro
+        function aplicarFiltros() {
+            const cambio = document.getElementById('filtro-cambio').value;
+            const precoMax = parseFloat(document.getElementById('filtro-preco').value);
+            const kmMax = parseInt(document.getElementById('filtro-km').value);
+            const anoModeloMin = parseInt(document.getElementById('filtro-ano-modelo').value);
+            const anoFabMin = parseInt(document.getElementById('filtro-ano-fab').value);
+
+            const carrosFiltrados = carros.filter(carro => {
+                let atendeFiltros = true;
+
+                // Filtro Câmbio (Exato)
+                if (cambio && carro["Câmbio"] !== cambio) {
+                    atendeFiltros = false;
+                }
+
+                // Filtro Preço Máximo
+                if (!isNaN(precoMax)) {
+                    const valorCarro = parsePreco(carro.preco);
+                    if (valorCarro > precoMax) atendeFiltros = false;
+                }
+
+                // Filtro KM Máxima
+                if (!isNaN(kmMax)) {
+                    const kmCarro = parseKm(carro.Quilometragem);
+                    if (kmCarro > kmMax) atendeFiltros = false;
+                }
+
+                // Filtro Ano Modelo Mínimo
+                if (!isNaN(anoModeloMin) && parseInt(carro["Ano Modelo"]) < anoModeloMin) {
+                    atendeFiltros = false;
+                }
+
+                // Filtro Ano Fabricação Mínimo
+                if (!isNaN(anoFabMin) && parseInt(carro["Ano Fabricação"]) < anoFabMin) {
+                    atendeFiltros = false;
+                }
+
+                return atendeFiltros;
+            });
+
+            // ORDENAÇÃO PÓS-FILTRO: Garante que o resultado da busca seja ordenado do menor para o maior preço
+            carrosFiltrados.sort((a, b) => parsePreco(a.preco) - parsePreco(b.preco));
+
+            renderizarCards(carrosFiltrados);
+        }
+
+        function limparFiltros() {
+            document.getElementById('filtro-cambio').value = '';
+            document.getElementById('filtro-preco').value = '';
+            document.getElementById('filtro-km').value = '';
+            document.getElementById('filtro-ano-modelo').value = '';
+            document.getElementById('filtro-ano-fab').value = '';
+            
+            // Como a lista original 'carros' foi ordenada no momento do fetch, 
+            // basta renderizá-la novamente para exibir a ordem correta.
+            renderizarCards(carros); 
+        }
+    </script>
+</body>
+</html>

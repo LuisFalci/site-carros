@@ -1,0 +1,39 @@
+name: Atualizar Estoque de Carros
+
+on:
+  schedule:
+    # Roda a cada 4 horas. Você pode ajustar esse tempo.
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Permite rodar o script manualmente clicando em um botão no GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do repositório
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Instalar dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Rodar o Scraper
+      run: python scraperCarro.py
+
+    - name: Fazer commit e push do novo JSON
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add estoque_carros_detalhado.json
+        # Só faz o commit se houver mudanças no arquivo JSON
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizando estoque de carros" && git push)

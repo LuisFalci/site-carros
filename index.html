@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,12 +26,44 @@
             color: var(--primary-color);
         }
 
+        /* Estilo para o card vendido */
+        .card.vendido {
+            border: 2px solid #dc3545;
+            /* Borda vermelha */
+            background-color: #fff5f5;
+            /* Fundo rosado claro */
+            opacity: 0.8;
+            /* Um pouco transparente */
+        }
+
+        .card.vendido .card-title {
+            color: #a71d2a;
+        }
+
+        .card.vendido .card-price {
+            color: #dc3545;
+            text-decoration: line-through;
+            /* Risca o preço */
+        }
+
+        /* Badge de "Vendido" */
+        .badge-vendido {
+            background-color: #dc3545;
+            color: white;
+            padding: 5px;
+            border-radius: 4px;
+            font-size: 0.8em;
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+
         /* Área de Filtros */
         .filtros-container {
             background-color: var(--card-bg);
             padding: 20px;
             border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             margin-bottom: 20px;
             display: flex;
             flex-wrap: wrap;
@@ -51,7 +84,8 @@
             font-size: 0.9em;
         }
 
-        .filtro-grupo input, .filtro-grupo select {
+        .filtro-grupo input,
+        .filtro-grupo select {
             padding: 8px;
             border: 1px solid #ccc;
             border-radius: 4px;
@@ -83,7 +117,7 @@
             background-color: var(--card-bg);
             border-radius: 8px;
             padding: 20px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             transition: transform 0.2s;
             display: flex;
             flex-direction: column;
@@ -137,11 +171,16 @@
         }
     </style>
 </head>
+
 <body>
 
     <h1>Veículos Disponíveis</h1>
 
     <div class="filtros-container">
+        <div class="filtro-grupo" style="flex: 2; min-width: 250px;">
+            <label for="filtro-texto">Buscar Modelo ou Marca</label>
+            <input type="text" id="filtro-texto" placeholder="Ex: Honda Civic, Toyota..." oninput="aplicarFiltros()">
+        </div>
         <div class="filtro-grupo">
             <label for="filtro-cambio">Câmbio</label>
             <select id="filtro-cambio">
@@ -171,7 +210,7 @@
     </div>
 
     <div class="cards-grid" id="cards-container">
-        </div>
+    </div>
 
     <script>
         let carros = []; // Armazenará os dados do JSON
@@ -193,10 +232,10 @@
             .then(response => response.json())
             .then(data => {
                 carros = data;
-                
+
                 // ORDENAÇÃO INICIAL: Do menor para o maior preço ao carregar a página
                 carros.sort((a, b) => parsePreco(a.preco) - parsePreco(b.preco));
-                
+
                 renderizarCards(carros);
             })
             .catch(error => {
@@ -204,36 +243,35 @@
                 document.getElementById('cards-container').innerHTML = "<p>Erro ao carregar os dados. Certifique-se de estar rodando um servidor local.</p>";
             });
 
-        // Função para desenhar os cards na tela
         function renderizarCards(listaCarros) {
             const container = document.getElementById('cards-container');
-            container.innerHTML = ''; // Limpa os resultados anteriores
-
-            if (listaCarros.length === 0) {
-                container.innerHTML = '<p>Nenhum veículo encontrado com estes filtros.</p>';
-                return;
-            }
+            container.innerHTML = '';
 
             listaCarros.forEach(carro => {
                 const card = document.createElement('div');
-                card.className = 'card';
+
+                // Verifica se o status é vendido para aplicar a classe CSS
+                const ehVendido = carro.status === 'vendido';
+                card.className = `card ${ehVendido ? 'vendido' : ''}`;
 
                 card.innerHTML = `
-                    <div class="card-title">${carro.Marca} ${carro.Modelo}</div>
-                    <div class="card-info"><span>Versão:</span> ${carro.Versão}</div>
-                    <div class="card-info"><span>Câmbio:</span> ${carro["Câmbio"]}</div>
-                    <div class="card-info"><span>Ano (Fab/Mod):</span> ${carro["Ano Fabricação"]}/${carro["Ano Modelo"]}</div>
-                    <div class="card-info"><span>KM:</span> ${carro.Quilometragem}</div>
-                    <div class="card-info"><span>Cor:</span> ${carro.Cor}</div>
-                    <div class="card-price">${carro.preco}</div>
-                    <a href="${carro.url}" target="_blank" class="card-link">Ver Anúncio</a>
-                `;
+            ${ehVendido ? '<div class="badge-vendido">VENDIDO / FORA DO SITE</div>' : ''}
+            <div class="card-title">${carro.Marca} ${carro.Modelo}</div>
+            <div class="card-info"><span>Versão:</span> ${carro.Versão}</div>
+            <div class="card-info"><span>Câmbio:</span> ${carro["Câmbio"]}</div>
+            <div class="card-info"><span>Ano (Fab/Mod):</span> ${carro["Ano Fabricação"]}/${carro["Ano Modelo"]}</div>
+            <div class="card-info"><span>KM:</span> ${carro.Quilometragem}</div>
+            <div class="card-info"><span>Cor:</span> ${carro.Cor}</div>
+            <div class="card-price">${carro.preco}</div>
+            <a href="${carro.url}" target="_blank" class="card-link">${ehVendido ? 'Ver Histórico' : 'Ver Anúncio'}</a>
+        `;
                 container.appendChild(card);
             });
         }
 
         // Função para aplicar as regras de filtro
         function aplicarFiltros() {
+            const buscaTexto = document.getElementById('filtro-texto').value.toLowerCase();
             const cambio = document.getElementById('filtro-cambio').value;
             const precoMax = parseFloat(document.getElementById('filtro-preco').value);
             const kmMax = parseInt(document.getElementById('filtro-km').value);
@@ -242,6 +280,15 @@
 
             const carrosFiltrados = carros.filter(carro => {
                 let atendeFiltros = true;
+
+                // --- NOVO FILTRO DE TEXTO ---
+                if (buscaTexto) {
+                    // Criamos uma string única com marca, modelo e versão para facilitar a busca
+                    const termosCarro = `${carro.Marca} ${carro.Modelo} ${carro.Versão}`.toLowerCase();
+                    if (!termosCarro.includes(buscaTexto)) {
+                        atendeFiltros = false;
+                    }
+                }
 
                 // Filtro Câmbio (Exato)
                 if (cambio && carro["Câmbio"] !== cambio) {
@@ -280,16 +327,18 @@
         }
 
         function limparFiltros() {
+            document.getElementById('filtro-texto').value = ''; // Limpa a busca
             document.getElementById('filtro-cambio').value = '';
             document.getElementById('filtro-preco').value = '';
             document.getElementById('filtro-km').value = '';
             document.getElementById('filtro-ano-modelo').value = '';
             document.getElementById('filtro-ano-fab').value = '';
-            
+
             // Como a lista original 'carros' foi ordenada no momento do fetch, 
             // basta renderizá-la novamente para exibir a ordem correta.
-            renderizarCards(carros); 
+            renderizarCards(carros);
         }
     </script>
 </body>
+
 </html>

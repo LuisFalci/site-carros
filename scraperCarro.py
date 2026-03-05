@@ -149,31 +149,44 @@ def executar_monitoramento():
     print(f"\n[{datetime.now().strftime('%H:%M:%S')}] Iniciando ciclo de monitoramento...")
     
     carros_salvos = carregar_json()
-    urls_conhecidas = {carro['url'] for carro in carros_salvos}
+    # Criamos um dicionário para facilitar a atualização por URL
+    estoque_dict = {carro['url']: carro for carro in carros_salvos}
     
     driver = configurar_driver()
     
     try:
-        # 1. Coleta todos os links de todas as páginas
-        todos_links = pegar_links_da_vitrine(driver)
-        print(f"Total de veículos na vitrine: {len(todos_links)}")
+        # 1. Coleta todos os links que estão ativos no site agora
+        links_ativos_no_site = set(pegar_links_da_vitrine(driver))
+        print(f"Total de veículos ativos no site: {len(links_ativos_no_site)}")
         
-        # 2. Filtra apenas as novidades
-        links_novos = [l for l in todos_links if l not in urls_conhecidas]
+        # 2. Marcar como VENDIDO quem está no JSON mas não está mais no site
+        for url, dados_carro in estoque_dict.items():
+            if url not in links_ativos_no_site:
+                if dados_carro.get("status") != "vendido":
+                    print(f" [VENDIDO] Detectado: {dados_carro.get('nome_principal')}")
+                    dados_carro["status"] = "vendido"
+            else:
+                # Se voltou ao site, volta a ficar disponível
+                dados_carro["status"] = "disponivel"
+        
+        # 3. Identificar novos carros para extrair detalhes
+        links_novos = [l for l in links_ativos_no_site if l not in estoque_dict]
         
         if not links_novos:
             print("Nenhuma novidade encontrada.")
         else:
-            print(f"{len(links_novos)} novos carros detectados. Iniciando extração...")
-            
+            print(f"{len(links_novos)} novos carros detectados. Extraindo...")
             for link in links_novos:
                 dados = extrair_detalhes_do_carro(driver, link)
                 if dados:
-                    carros_salvos.append(dados)
-                    # Salvamento incremental (segurança contra interrupções)
-                    salvar_json(carros_salvos)
+                    dados["status"] = "disponivel" # Carro novo chega como disponível
+                    estoque_dict[link] = dados
+                    # Salva o dicionário convertido de volta para lista
+                    salvar_json(list(estoque_dict.values()))
             
-            print(f"Ciclo finalizado com sucesso.")
+        # Salva ao final para garantir a atualização dos status de vendidos
+        salvar_json(list(estoque_dict.values()))
+        print(f"Ciclo finalizado com sucesso.")
             
     except Exception as e:
         print(f"Erro crítico: {e}")

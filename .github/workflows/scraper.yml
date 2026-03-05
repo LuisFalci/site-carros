@@ -1,39 +1,48 @@
-name: Atualizar Estoque de Carros
+name: Monitoramento Center Car
 
+# Define quando a rotina vai rodar
 on:
   schedule:
-    # Roda a cada 4 horas. Você pode ajustar esse tempo.
-    - cron: '0 */4 * * *'
-  workflow_dispatch: # Permite rodar o script manualmente clicando em um botão no GitHub
+    # Roda todos os dias às 10:00 e 22:00 (Horário UTC - equivalente a 07:00 e 19:00 no Brasil)
+    - cron: '0 10,22 * * *'
+  # Permite rodar o script manualmente clicando em um botão no GitHub
+  workflow_dispatch:
 
+# Dá permissão para o bot do GitHub fazer o commit do JSON alterado
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  rodar-scraper:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout do repositório
-      uses: actions/checkout@v4
+      # 1. Baixa os arquivos do seu repositório para a máquina virtual
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
 
-    - name: Configurar Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      # 2. Instala o Python
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' # Versão estável
 
-    - name: Instalar dependências
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      # 3. Instala as bibliotecas do seu requirements.txt
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Rodar o Scraper
-      run: python scraperCarro.py
+      # 4. Roda o seu script de scraping
+      - name: Executar o Scraper
+        run: python scraperCarro.py
 
-    - name: Fazer commit e push do novo JSON
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add estoque_carros_detalhado.json
-        # Só faz o commit se houver mudanças no arquivo JSON
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizando estoque de carros" && git push)
+      # 5. Salva o novo JSON e envia de volta para o repositório
+      - name: Comitar e Push do JSON atualizado
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add estoque_carros_detalhado.json
+          # O comando '|| echo' evita que o actions dê erro caso nenhum carro novo/vendido seja detectado
+          git commit -m "Automação: Atualização do estoque de carros" || echo "Nenhuma mudança no estoque para comitar"
+          git push

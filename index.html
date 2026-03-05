@@ -177,6 +177,14 @@
     <h1>Veículos Disponíveis</h1>
 
     <div class="filtros-container">
+        <div class="filtro-grupo">
+            <label for="filtro-status">Status</label>
+            <select id="filtro-status">
+                <option value="">Todos</option>
+                <option value="disponivel">Disponíveis</option>
+                <option value="vendido">Vendidos</option>
+            </select>
+        </div>
         <div class="filtro-grupo" style="flex: 2; min-width: 250px;">
             <label for="filtro-texto">Buscar Modelo ou Marca</label>
             <input type="text" id="filtro-texto" placeholder="Ex: Honda Civic, Toyota..." oninput="aplicarFiltros()">
@@ -273,6 +281,7 @@
         function aplicarFiltros() {
             const buscaTexto = document.getElementById('filtro-texto').value.toLowerCase();
             const cambio = document.getElementById('filtro-cambio').value;
+            const statusFiltro = document.getElementById('filtro-status').value; // Novo
             const precoMax = parseFloat(document.getElementById('filtro-preco').value);
             const kmMax = parseInt(document.getElementById('filtro-km').value);
             const anoModeloMin = parseInt(document.getElementById('filtro-ano-modelo').value);
@@ -294,6 +303,12 @@
                 if (cambio && carro["Câmbio"] !== cambio) {
                     atendeFiltros = false;
                 }
+
+                // --- NOVO FILTRO DE STATUS ---
+                // Se o filtro for 'disponivel', remove os que têm status 'vendido'
+                // Se o filtro for 'vendido', remove os que NÃO têm status 'vendido'
+                if (statusFiltro === 'disponivel' && carro.status === 'vendido') atendeFiltros = false;
+                if (statusFiltro === 'vendido' && carro.status !== 'vendido') atendeFiltros = false;
 
                 // Filtro Preço Máximo
                 if (!isNaN(precoMax)) {
@@ -329,6 +344,7 @@
         function limparFiltros() {
             document.getElementById('filtro-texto').value = ''; // Limpa a busca
             document.getElementById('filtro-cambio').value = '';
+            document.getElementById('filtro-status').value = ''; // Novo
             document.getElementById('filtro-preco').value = '';
             document.getElementById('filtro-km').value = '';
             document.getElementById('filtro-ano-modelo').value = '';

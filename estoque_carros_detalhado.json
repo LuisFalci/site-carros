@@ -16,7 +16,7 @@
         "Marca": "FIAT",
         "Modelo": "Palio",
         "Versão": "WEEKEND TREKKING 1.4 FIRE FLEX 8V",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-cronos-drive-13-8v-flex-20232024/261199",
@@ -54,7 +54,7 @@
         "Marca": "JEEP",
         "Modelo": "COMPASS",
         "Versão": "LONG. T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-10-mi-total-flex-8v-5p-20122013/267873",
@@ -187,7 +187,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "T-Cross",
         "Versão": "HIGHLINE 1.4 TSI FLEX 16V 5P AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-sense-10-turbo-flex-aut-20252026/256295",
@@ -263,7 +263,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "208",
         "Versão": "ACTIVE PACK 1.6 FLEX 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-longitude-18-4x2-flex-16v-aut-20212021/269768",
@@ -320,7 +320,7 @@
         "Marca": "PORSCHE",
         "Modelo": "Macan",
         "Versão": "T 2.0 TURBO",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-fit-lx-15-flexone-16v-5p-aut-20182018/253348",
@@ -358,7 +358,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "TITANIUM 1.5 12V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-city-hatchback-touring-15-flex-16v-aut-20222023/261468",
@@ -396,7 +396,7 @@
         "Marca": "HONDA",
         "Modelo": "WR-V",
         "Versão": "EX 1.5 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-208-allure-16-flex-16v-5p-aut-20202021/269990",
@@ -415,7 +415,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "208",
         "Versão": "ALLURE 1.6 FLEX 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-sport-t270-13-tb-4x2-flex-aut-20242024/264657",
@@ -434,7 +434,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-onix-hatch-lt-10-8v-flexpower-5p-mec-20172017/268751",
@@ -491,7 +491,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "ADVANCE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-onix-hatch-activ-14-8v-flex-5p-aut-20172018/256009",
@@ -567,7 +567,7 @@
         "Marca": "FIAT",
         "Modelo": "CRONOS",
         "Versão": "PRECISION 1.3 8V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-advance-16-16v-flex-aut-20232023/258624",
@@ -624,7 +624,7 @@
         "Marca": "AUDI",
         "Modelo": "Q3",
         "Versão": "SPB PERF. BLACK 2.0 TFSI TIPT. QUAT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-sv-16-16v-flexstar-5p-aut-20192020/267772",
@@ -681,7 +681,7 @@
         "Marca": "FIAT",
         "Modelo": "ARGO",
         "Versão": "HGT 1.8 16V FLEX MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-advance-16-16v-flex-aut-20232023/268973",
@@ -700,7 +700,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "ADVANCE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-fiesta-se-10-8v-flex-5p-20132014/264247",
@@ -738,7 +738,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "SE 1.5 12V FLEX 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-argo-drive-10-6v-flex-20242024/268953",
@@ -776,7 +776,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "LIMITED 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-argo-drive-10-6v-flex-20192020/267865",
@@ -795,7 +795,7 @@
         "Marca": "FIAT",
         "Modelo": "ARGO",
         "Versão": "DRIVE 1.0 6V FLEX",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-500-sport-14-16v-100cv-mec-20092010/270120",
@@ -852,7 +852,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "2008",
         "Versão": "GRIFFE 1.6 FLEX 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-captur-life-16-16v-flex-5p-aut-20182019/268024",
@@ -871,7 +871,7 @@
         "Marca": "RENAULT",
         "Modelo": "CAPTUR",
         "Versão": "LIFE 1.6 16V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-ranch-20-16v-4x4-tb-diesel-aut-20212022/269848",
@@ -890,7 +890,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "RANCH 2.0 16V 4X4 TB DIESEL AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-long-t270-13-tb-4x2-flex-aut-20222023/267834",
@@ -909,7 +909,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONG. T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-advance-16-16v-flex-aut-20212022/269997",
@@ -1004,7 +1004,7 @@
         "Marca": "TOYOTA",
         "Modelo": "ETIOS",
         "Versão": "X 1.3 FLEX 16V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-sv-16-16v-flexstar-5p-aut-20202021/262169",
@@ -1099,7 +1099,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "PRESTIGE 2.0 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-nivus-comfortline-10-200-tsi-flex-aut-20222023/266419",
@@ -1118,7 +1118,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Nivus",
         "Versão": "COMFORTLINE 1.0 200 TSI FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-20-16v-4x4-tb-diesel-aut-20172017/264240",
@@ -1194,7 +1194,7 @@
         "Marca": "BYD",
         "Modelo": "SONG",
         "Versão": "PLUS PREMIUM 1.5 16V AUT. (HIBRIDO)",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-platinum-10-tb-12v-flex-aut-20222022/256958",
@@ -1213,7 +1213,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "PLATINUM 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/audi-a5-sportback-18-tfsi-170cv-multi-20162016/270166",
@@ -1232,7 +1232,7 @@
         "Marca": "AUDI",
         "Modelo": "A5",
         "Versão": "SPORTBACK 1.8 TFSI 170CV MULTI.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-city-sedan-ex-15-flex-16v-4p-aut-20222022/266882",
@@ -1251,7 +1251,7 @@
         "Marca": "HONDA",
         "Modelo": "CITY",
         "Versão": "SEDAN EX 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-sandero-stepway-hi-power-16-8v-5p-20122013/268005",
@@ -1289,7 +1289,7 @@
         "Marca": "FORD",
         "Modelo": "KA",
         "Versão": "1.5 SEDAN SE 12V FLEX 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/caoa-chery-tiggo-3x-pro-10-turbo-flex-aut-20212022/261742",
@@ -1308,7 +1308,7 @@
         "Marca": "CAOA CHERY",
         "Modelo": "TIGGO",
         "Versão": "3X PRO 1.0 TURBO FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-2008-griffe-16-flex-16v-5p-aut-20192020/270132",
@@ -1327,7 +1327,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "2008",
         "Versão": "GRIFFE 1.6 FLEX 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20x-diamond-16-flex-16v-aut-20192020/269580",
@@ -1384,7 +1384,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT 1.8 4X2 FLEX 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-advance-16-16v-flex-aut-20232023/269568",
@@ -1403,7 +1403,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "ADVANCE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/mitsubishi-asx-20-16v-160cv-aut-20152015/270223",
@@ -1422,7 +1422,7 @@
         "Marca": "MITSUBISHI",
         "Modelo": "ASX",
         "Versão": "2.0 16V 160CV AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-xplay-16-16v-flex-aut-20232023/260805",
@@ -1479,7 +1479,7 @@
         "Marca": "BMW",
         "Modelo": "X3",
         "Versão": "XDRIVE 20I 2.0/X-LINE BI-TB FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-fit-exs-15-flexflexone-16v-5p-aut-20162016/266896",
@@ -1536,7 +1536,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "JETTA",
         "Versão": "2.5 20V 150/170CV TIPTRONIC",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-compass-long-t270-13-tb-4x2-flex-aut-20212022/264337",
@@ -1593,7 +1593,7 @@
         "Marca": "RENAULT",
         "Modelo": "SANDERO STEPWAY",
         "Versão": "ICONIC FLEX 1.6 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-track-10-flex-12v-5p-20232023/266479",
@@ -1631,7 +1631,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONGITUDE 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ecosport-se-direct-15-flex-5p-aut-20192020/268380",
@@ -1650,7 +1650,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "SE DIRECT 1.5 FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-fastback-impetus-10-200-t-flex-aut-20232023/269584",
@@ -1707,7 +1707,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONGITUDE 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-city-sedan-lx-15-flex-16v-4p-aut-20122013/262195",
@@ -1726,7 +1726,7 @@
         "Marca": "HONDA",
         "Modelo": "CITY",
         "Versão": "SEDAN LX 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-fiesta-sedan-se-16-8v-flex-4p-20132014/258578",
@@ -1745,7 +1745,7 @@
         "Marca": "FORD",
         "Modelo": "Fiesta",
         "Versão": "SEDAN SE 1.6 8V FLEX 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-kwid-outsider-10-flex-12v-5p-mec-20232024/269050",
@@ -1764,7 +1764,7 @@
         "Marca": "RENAULT",
         "Modelo": "KWID",
         "Versão": "OUTSIDER 1.0 FLEX 12V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-corolla-xei-20-flex-16v-aut-20142014/263899",
@@ -1783,7 +1783,7 @@
         "Marca": "TOYOTA",
         "Modelo": "Corolla",
         "Versão": "XEI 2.0 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-gol-special-10-total-flex-8v-5p-20152016/264583",
@@ -1821,7 +1821,7 @@
         "Marca": "HONDA",
         "Modelo": "Civic",
         "Versão": "SEDAN EX 2.0 FLEX 16V AUT.4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/mitsubishi-pajero-tr4-20-flex-16v-4x2-mec-20142014/266972",
@@ -1840,7 +1840,7 @@
         "Marca": "MITSUBISHI",
         "Modelo": "Pajero",
         "Versão": "TR4 2.0 FLEX 16V 4X2 MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-mobi-10-firefly-flex-trekking-manual-2025/232579",
@@ -1897,7 +1897,7 @@
         "Marca": "FIAT",
         "Modelo": "FASTBACK",
         "Versão": "IMPETUS 1.0 200 T. FLEX AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20s-cstylecplus16-flex-16v-aut-4p-20142015/264480",
@@ -1935,7 +1935,7 @@
         "Marca": "AUDI",
         "Modelo": "Q3",
         "Versão": "2.0 TFSI QUAT. 170/180CV S-TRONIC 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-comfort-10-tb-12v-flex-aut-20212022/254789",
@@ -1954,7 +1954,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "COMFORT 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-kwid-zen-10-flex-12v-5p-mec-20232024/270035",
@@ -1973,7 +1973,7 @@
         "Marca": "RENAULT",
         "Modelo": "KWID",
         "Versão": "ZEN 1.0 FLEX 12V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-civic-sedan-lx-20-flex-16v-aut-4p-20212021/251435",
@@ -1992,7 +1992,7 @@
         "Marca": "HONDA",
         "Modelo": "Civic",
         "Versão": "SEDAN LX 2.0 FLEX 16V AUT. 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-sport-18-4x2-flex-16v-aut-20212021/268368",
@@ -2030,7 +2030,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "T-Cross",
         "Versão": "HIG. 250 TSI 1.4 FLEX 16V 5P AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-commander-overl-td380-20-4x4-die-aut-20222023/261086",
@@ -2068,7 +2068,7 @@
         "Marca": "HONDA",
         "Modelo": "Civic",
         "Versão": "SEDAN EXS 1.8/1.8 FLEX 16V AUT. 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-corolla-cross-20-vvt-ie-flex-xre-direct-shift-2025/255709",
@@ -2106,7 +2106,7 @@
         "Marca": "FIAT",
         "Modelo": "CRONOS",
         "Versão": "DRIVE 1.3 8V FLEX",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-virtus-exclusive-250tsi-14-flex-16v-aut-20232023/265921",
@@ -2125,7 +2125,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "VIRTUS",
         "Versão": "EXCLUSIVE 250TSI 1.4 FLEX 16V AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-limit-safety-10-tb-12v-flex-aut-20242025/261487",
@@ -2163,7 +2163,7 @@
         "Marca": "HONDA",
         "Modelo": "CITY",
         "Versão": "SEDAN TOURING 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-t-cross-hig-250-tsi-14-flex-16v-5p-aut-20212021/267684",
@@ -2220,7 +2220,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-xtreme-16-flex-8v-5p-20192020/268468",
@@ -2239,7 +2239,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Fox",
         "Versão": "XTREME 1.6 FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ka-10-sese-plus-tivct-flex-5p-20202020/256420",
@@ -2277,7 +2277,7 @@
         "Marca": "HONDA",
         "Modelo": "HR-V",
         "Versão": "EX 1.8 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-limited-10-tb-12v-flex-aut-20222023/260877",
@@ -2296,7 +2296,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "LIMITED 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-kardian-prem-ed-flex-10-tb-12v-5p-aut-20242025/269830",
@@ -2372,7 +2372,7 @@
         "Marca": "RENAULT",
         "Modelo": "DUSTER",
         "Versão": "ICONIC 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ecosport-freestyle-16-16v-flex-5p-20132014/268038",
@@ -2429,7 +2429,7 @@
         "Marca": "FIAT",
         "Modelo": "PULSE",
         "Versão": "DRIVE 1.3 8V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-longitude-18-4x2-flex-16v-aut-20162016/267808",
@@ -2467,7 +2467,7 @@
         "Marca": "RENAULT",
         "Modelo": "DUSTER",
         "Versão": "ZEN 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-10-mpi-flex-12v-5p-20232023/267395",
@@ -2524,7 +2524,7 @@
         "Marca": "AUDI",
         "Modelo": "A3",
         "Versão": "SEDAN 1.4 TFSI FLEX TIPTRONIC 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-10-flex-12v-5p-20172018/270420",
@@ -2543,7 +2543,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "1.0 FLEX 12V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-freedom-18-16v-flex-aut-20192019/268531",
@@ -2562,7 +2562,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "FREEDOM 1.8 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-march-sv-10-12v-flex-5p-20162016/259976",
@@ -2638,7 +2638,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20S",
         "Versão": "C.STYLE/C.PLUS1.6 FLEX 16V AUT. 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-comfort-10-tb-12v-flex-aut-20212022/259126",
@@ -2657,7 +2657,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "COMFORT 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-duster-iconic-16-16v-flex-aut-20232024/265567",
@@ -2714,7 +2714,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "up!",
         "Versão": "CONNECT 1.0 TSI TOTAL FLEX 12V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-longitude-18-4x2-flex-16v-aut-20212021/270105",
@@ -2771,7 +2771,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20X",
         "Versão": "PREMIUM 1.6 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-sport-t270-13-tb-4x2-flex-aut-20222022/256086",
@@ -2790,7 +2790,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-gol-10-flex-12v-5p-20222023/267063",
@@ -2809,7 +2809,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Gol",
         "Versão": "1.0 FLEX 12V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-golf-gti-20-tsi-220cv-aut-20152015/261841",
@@ -2847,7 +2847,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20S",
         "Versão": "VISION 1.0 FLEX 12V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-duster-intense-16-16v-flex-aut-20222022/268127",
@@ -2885,7 +2885,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Nivus",
         "Versão": "HIGHLINE 1.0 200 TSI FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-duster-iconic-16-16v-flex-aut-20212022/266648",
@@ -2904,7 +2904,7 @@
         "Marca": "RENAULT",
         "Modelo": "DUSTER",
         "Versão": "ICONIC 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-fit-exs-15-flexflexone-16v-5p-aut-20192019/244703",
@@ -2961,7 +2961,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "ACTION 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-onix-hatch-ltz-14-8v-flexpower-5p-mec-20132014/269576",
@@ -3056,7 +3056,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade1.8",
         "Versão": "4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-virtus-comfort-200-tsi-10-flex-12v-aut-20222022/266562",
@@ -3113,7 +3113,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-civic-sedan-ex-20-flex-16v-aut4p-20212021/266001",
@@ -3170,7 +3170,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "ONIX",
         "Versão": "HATCH LT 1.0 8V FLEXPOWER 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-13-t270-4x2-flex-aut-20222023/267251",
@@ -3189,7 +3189,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "VOLCANO 1.3 T270 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-sense-16-16v-flex-aut-20212022/267007",
@@ -3208,7 +3208,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "SENSE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-comfcpluscstyle-10-flex-12v-20132014/264175",
@@ -3246,7 +3246,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Fox",
         "Versão": "CONNECT 1.6 FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-sv-16-16v-flexstar-5p-aut-20212021/263092",
@@ -3303,7 +3303,7 @@
         "Marca": "FIAT",
         "Modelo": "CRONOS",
         "Versão": "PRECISION 1.3 8V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-cr-v-lx-20-16v-2wd20-flexone-aut-20112011/266716",
@@ -3341,7 +3341,7 @@
         "Marca": "FIAT",
         "Modelo": "ARGO",
         "Versão": "TREKKING 1.3 8V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-13-t270-4x2-flex-aut-20232023/266134",
@@ -3379,7 +3379,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "ACTION 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-sandero-privilege-hi-flex-16-16v-5p-20082009/269777",
@@ -3417,7 +3417,7 @@
         "Marca": "HONDA",
         "Modelo": "Civic",
         "Versão": "SEDAN LXR 2.0 FLEXONE 16V AUT. 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-longitude-20-4x4-tb-diesel-aut-20152016/268668",
@@ -3455,7 +3455,7 @@
         "Marca": "HONDA",
         "Modelo": "Fit",
         "Versão": "LX 1.5 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20x-style-16-flex-16v-mec-20152016/269805",
@@ -3512,7 +3512,7 @@
         "Marca": "HONDA",
         "Modelo": "CITY",
         "Versão": "SEDAN LX 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-mobi-trekking-10-flex-5p-20222023/246760",
@@ -3550,7 +3550,7 @@
         "Marca": "FIAT",
         "Modelo": "FASTBACK",
         "Versão": "LIMITED ED.1.3 270 T.FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-sv-16-16v-flexstar-5p-aut-20202020/267751",
@@ -3626,7 +3626,7 @@
         "Marca": "RENAULT",
         "Modelo": "DUSTER",
         "Versão": "INTENSE PLUS 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-longitude-18-4x2-flex-16v-aut-20182018/263405",
@@ -3645,7 +3645,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONGITUDE 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-nivus-highline-10-200-tsi-flex-aut-20222022/262513",
@@ -3664,7 +3664,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Nivus",
         "Versão": "HIGHLINE 1.0 200 TSI FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-tracker-lt-10-turbo-12v-flex-aut-20232024/263399",
@@ -3702,7 +3702,7 @@
         "Marca": "BMW",
         "Modelo": "320iA",
         "Versão": "2.0 TURBO/ACTIVEFLEX 16V/GP  4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-compass-black-hurricane-20-4x4-tb-aut-20252025/262658",
@@ -3759,7 +3759,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Nivus",
         "Versão": "HIGHLINE 1.0 200 TSI FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-f-250-xlt-39-4x4-cd-tb-diesel-20062007/265530",
@@ -3797,7 +3797,7 @@
         "Marca": "NISSAN",
         "Modelo": "MARCH",
         "Versão": "S 1.6 16V FLEX FUEL 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-sandero-stepway-intense-flex-16-16v-aut-20202021/262574",
@@ -3835,7 +3835,7 @@
         "Marca": "TOYOTA",
         "Modelo": "ETIOS",
         "Versão": "XS SEDAN1.5 FLEX 16V 4P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-onix-hatch-lt-14-8v-flexpower-5p-mec-20142015/269604",
@@ -3873,7 +3873,7 @@
         "Marca": "FIAT",
         "Modelo": "PULSE",
         "Versão": "IMPETUS 1.0 TURBO 200 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-territory-titanium-15-gtdi-ecobo-aut-20212021/269504",
@@ -3892,7 +3892,7 @@
         "Marca": "FORD",
         "Modelo": "TERRITORY",
         "Versão": "TITANIUM 1.5 GTDI ECOBO. AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-comfcpluscstyle-10-flex-12v-20162017/269759",
@@ -3911,7 +3911,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20",
         "Versão": "COMF./C.PLUS/C.STYLE 1.0 FLEX 12V",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/citroen-c3-attraction-pure-tech-12-flex-12v-mec-20192019/234974",
@@ -3949,7 +3949,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "2008",
         "Versão": "ALLURE PACK 1.6 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-s10-pick-up-lt-28-tdi-4x4-cd-diesel-aut-20142015/261634",
@@ -3968,7 +3968,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "S10",
         "Versão": "PICK-UP LT 2.8 TDI 4X4 CD DIESEL AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-exclusive-16-16v-flex-aut-20222023/263860",
@@ -3987,7 +3987,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "EXCLUSIVE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/citroen-c3-exclusive-14-flex-8v-5p-20122012/270031",
@@ -4063,7 +4063,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "TAOS",
         "Versão": "HIGHLINE 1.4 250 TSI FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-20-16v-4x4-tb-diesel-aut-20182019/266236",
@@ -4139,7 +4139,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "TITANIUM 2.0 16V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-strada-freedom-13-flex-8v-cs-plus-20212022/270352",
@@ -4177,7 +4177,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "TERA",
         "Versão": "HIGH 1.0 170 TSI FLEX 12V 5P AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-duster-iconic-16-16v-flex-aut-20222023/269564",
@@ -4234,7 +4234,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "ONIX",
         "Versão": "HATCH LT 1.4 8V FLEXPOWER 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-13-t270-4x2-flex-aut-20222023/268484",
@@ -4253,7 +4253,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "VOLCANO 1.3 T270 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-connect-16-flex-8v-5p-20192020/242175",
@@ -4272,7 +4272,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Fox",
         "Versão": "CONNECT 1.6 FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-mobi-like-10-fire-flex-5p-20242025/270216",
@@ -4291,7 +4291,7 @@
         "Marca": "FIAT",
         "Modelo": "MOBI",
         "Versão": "LIKE 1.0 FIRE FLEX 5P.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/land-rover-range-rover-sport-hse-30-4x4-sdv6-dies-20142014/260626",
@@ -4310,7 +4310,7 @@
         "Marca": "LAND ROVER",
         "Modelo": "Range",
         "Versão": "ROVER SPORT HSE 3.0 4X4 SDV6 DIES.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-argo-trekking-13-8v-flex-20222023/267577",
@@ -4329,7 +4329,7 @@
         "Marca": "FIAT",
         "Modelo": "ARGO",
         "Versão": "TREKKING 1.3 8V FLEX",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-s-16-16v-flex-5p-aut-20182019/247687",
@@ -4367,7 +4367,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "S 1.6 16V FLEXSTAR 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-std-18-4x2-flex-16v-aut-20212021/268415",
@@ -4386,7 +4386,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "STD 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-duster-oroch-dyna-20-flex-16v-aut-20172017/266772",
@@ -4462,7 +4462,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "T-Cross",
         "Versão": "COMFOR. 200 TSI 1.0 FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-hr-v-exl-18-flexone-16v-5p-aut-20212021/269102",
@@ -4481,7 +4481,7 @@
         "Marca": "HONDA",
         "Modelo": "HR-V",
         "Versão": "EXL 1.8 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-argo-trekking-13-8v-flex-20202020/266150",
@@ -4500,7 +4500,7 @@
         "Marca": "FIAT",
         "Modelo": "ARGO",
         "Versão": "TREKKING 1.3 8V FLEX",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/mercedes-benz-gla-200-enduro-16-tb-16v-flex-aut-20172017/257818",
@@ -4519,7 +4519,7 @@
         "Marca": "MERCEDES-BENZ",
         "Modelo": "GLA",
         "Versão": "200 ENDURO 1.6 TB 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-n-line-10-tb-12v-flex-aut-20232024/266142",
@@ -4538,7 +4538,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "N LINE 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-equinox-15-16v-turbo-gasolina-premier-awd-automatico-2022/250181",
@@ -4557,7 +4557,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "EQUINOX",
         "Versão": "PREMIER 1.5 TURBO 172CV AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-fastback-limited-ed13-270-tflex-aut-20242024/267553",
@@ -4576,7 +4576,7 @@
         "Marca": "FIAT",
         "Modelo": "FASTBACK",
         "Versão": "LIMITED ED.1.3 270 T.FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-leaf-aut-eletrico-20192020/262091",
@@ -4614,7 +4614,7 @@
         "Marca": "FORD",
         "Modelo": "Fiesta",
         "Versão": "1.0 8V FLEX/CLASS 1.0 8V FLEX 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-up-10-total-flex-12v-5p-20192020/256951",
@@ -4633,7 +4633,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "up!",
         "Versão": "1.0 TOTAL FLEX 12V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-versa-sl-16-16v-flexstart-4p-aut-20182019/265223",
@@ -4709,7 +4709,7 @@
         "Marca": "MERCEDES-BENZ",
         "Modelo": "SLK-250",
         "Versão": "CGI 1.8 16V 204CV AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-duster-intense-16-16v-flex-mec-20232024/268135",
@@ -4728,7 +4728,7 @@
         "Marca": "RENAULT",
         "Modelo": "DUSTER",
         "Versão": "INTENSE 1.6 16V FLEX MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-16-mi-total-flex-8v-5p-20132014/269509",
@@ -4747,7 +4747,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Fox",
         "Versão": "1.6 MI TOTAL FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-fastback-impetus-10-200-t-flex-aut-20222023/268675",
@@ -4766,7 +4766,7 @@
         "Marca": "FIAT",
         "Modelo": "FASTBACK",
         "Versão": "IMPETUS 1.0 200 T. FLEX AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-highline-tsi-10-flex-12v-aut-20222023/262615",
@@ -4804,7 +4804,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Saveiro",
         "Versão": "TRENDLINE 1.6 T.FLEX 8V",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ecosport-se-16-16v-flex-5p-mec-20162017/265238",
@@ -4823,7 +4823,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "SE 1.6 16V FLEX 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-duster-dynamique-16-flex-16v-mec-20152016/265559",
@@ -4842,7 +4842,7 @@
         "Marca": "RENAULT",
         "Modelo": "DUSTER",
         "Versão": "DYNAMIQUE 1.6 FLEX 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/audi-a4-18-tip-multitronic-turbo-20152015/267792",
@@ -4937,7 +4937,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Nivus",
         "Versão": "COMFORTLINE 1.0 200 TSI FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-comfort-200-tsi-10-flex-12v-aut-20182018/258220",
@@ -4956,7 +4956,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "COMFORT. 200 TSI 1.0 FLEX 12V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-mobi-like-10-fire-flex-5p-20242025/269251",
@@ -4975,7 +4975,7 @@
         "Marca": "FIAT",
         "Modelo": "MOBI",
         "Versão": "LIKE 1.0 FIRE FLEX 5P.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-city-sedan-lx-15-flex-16v-4p-aut-20242024/267055",
@@ -4994,7 +4994,7 @@
         "Marca": "HONDA",
         "Modelo": "CITY",
         "Versão": "SEDAN LX 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-advance-16-16v-flex-aut-20232024/247699",
@@ -5013,7 +5013,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "ADVANCE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-fiesta-10-8v-flexclass-10-8v-flex-5p-20092010/269723",
@@ -5051,7 +5051,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "Classic",
         "Versão": "LIFE/LS 1.0 VHC FLEXP. 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-up-move-10-tsi-total-flex-12v-5p-20152016/268617",
@@ -5089,7 +5089,7 @@
         "Marca": "RENAULT",
         "Modelo": "SANDERO STEPWAY",
         "Versão": "ICONIC FLEX 1.6 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-voyage-10-flex-12v-4p-20222023/256414",
@@ -5108,7 +5108,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "VOYAGE",
         "Versão": "1.0 FLEX 12V 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-corolla-cross-xr-20-16v-flex-aut-20212022/264299",
@@ -5127,7 +5127,7 @@
         "Marca": "TOYOTA",
         "Modelo": "Corolla",
         "Versão": "CROSS XR 2.0 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-yaris-xls-connect-sed-15-flex-16v-aut-20212022/266890",
@@ -5146,7 +5146,7 @@
         "Marca": "TOYOTA",
         "Modelo": "YARIS",
         "Versão": "XLS CONNECT SED. 1.5 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ecosport-freestyle-16-16v-flex-5p-aut-20162017/270266",
@@ -5165,7 +5165,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "FREESTYLE 1.6 16V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volvo-xc-40-t-4-20-190cv-fwd-20182019/263309",
@@ -5184,7 +5184,7 @@
         "Marca": "VOLVO",
         "Modelo": "XC",
         "Versão": "40 T-4 2.0 190CV FWD",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-fit-exl-15-flexflexone-16v-5p-aut-20182018/266188",
@@ -5222,7 +5222,7 @@
         "Marca": "CITROËN",
         "Modelo": "C3",
         "Versão": "FEEL 1.0 FLEX 6V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-fiesta-se-16-16v-flex-5p-20182018/256208",
@@ -5298,7 +5298,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "FREESTYLE 1.6 16V FLEX 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-onix-hatch-lt-10-8v-flexpower-5p-mec-20172018/263964",
@@ -5317,7 +5317,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "ONIX",
         "Versão": "HATCH LT 1.0 8V FLEXPOWER 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-i30-20-16v-145cv-5p-mec-20112012/267950",
@@ -5336,7 +5336,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "i30",
         "Versão": "2.0 16V 145CV 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-spin-premier-18-8v-econoflex-5p-aut-20222023/266490",
@@ -5393,7 +5393,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "HIGHLINE 200 TSI 1.0 FLEX 12V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-elantra-gls-18-16v-mec-20112012/269841",
@@ -5412,7 +5412,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Elantra",
         "Versão": "GLS 1.8 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-2008-griffe-16-flex-16v-5p-aut-20172018/268920",
@@ -5431,7 +5431,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "2008",
         "Versão": "GRIFFE 1.6 FLEX 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-platinum-10-tb-12v-flex-aut-20242024/269525",
@@ -5450,7 +5450,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "PLATINUM 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-civic-sedan-ex-20-flex-16v-aut4p-20212021/265785",
@@ -5469,7 +5469,7 @@
         "Marca": "HONDA",
         "Modelo": "Civic",
         "Versão": "SEDAN EX 2.0 FLEX 16V AUT.4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-comfortline-16-flex-8v-5p-20142015/267192",
@@ -5488,7 +5488,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Fox",
         "Versão": "COMFORTLINE 1.6 FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-prestige-20-16v-flex-aut-20202020/268452",
@@ -5507,7 +5507,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "PRESTIGE 2.0 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/dodge-journey-rt-36-v6-aut-20152015/268420",
@@ -5583,7 +5583,7 @@
         "Marca": "TOYOTA",
         "Modelo": "ETIOS",
         "Versão": "XS SEDAN 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-sport-18-4x2-flex-16v-mec-20162016/256002",
@@ -5602,7 +5602,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT 1.8 4X2 FLEX 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-city-sedan-lx-15-flex-16v-4p-aut-20152015/264287",
@@ -5659,7 +5659,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "HIGHLINE 200 TSI 1.0 FLEX 12V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-comfcpluscstyle-10-flex-12v-20152015/260789",
@@ -5697,7 +5697,7 @@
         "Marca": "HONDA",
         "Modelo": "Fit",
         "Versão": "LX 1.5 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/land-rover-discovery-sport-se-20-4x4-diesel-aut-20182019/269616",
@@ -5716,7 +5716,7 @@
         "Marca": "LAND ROVER",
         "Modelo": "Discovery",
         "Versão": "SPORT SE 2.0 4X4 DIESEL AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-s-16-16v-flex-5p-aut-20212021/266028",
@@ -5773,7 +5773,7 @@
         "Marca": "CITROËN",
         "Modelo": "C4",
         "Versão": "LOUNGE EXCLUSIVE 1.6 TURBO FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-sandero-stepway-zen-flex-16-16v-mec-20212022/266878",
@@ -5849,7 +5849,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Veloster",
         "Versão": "1.6 16V  140CV AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-long-t270-13-tb-4x2-flex-aut-20232023/263551",
@@ -5868,7 +5868,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONG. T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/citroen-aircross-glx-16-flex-16v-5p-mec-20102011/268944",
@@ -5887,7 +5887,7 @@
         "Marca": "CITROËN",
         "Modelo": "AIRCROSS",
         "Versão": "GLX 1.6 FLEX 16V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-highline-200-tsi-10-flex-12v-aut-20192019/264064",
@@ -5906,7 +5906,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "HIGHLINE 200 TSI 1.0 FLEX 12V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-strada-endurance-14-flex-8v-cs-plus-20222022/257041",
@@ -5925,7 +5925,7 @@
         "Marca": "FIAT",
         "Modelo": "Strada",
         "Versão": "ENDURANCE 1.4 FLEX 8V CS PLUS",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-2008-griffe-16-turbo-flex-16v-5p-aut-20202020/268789",
@@ -5982,7 +5982,7 @@
         "Marca": "HONDA",
         "Modelo": "HR-V",
         "Versão": "EX 1.8 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-action-16-16v-flex-aut-20222022/233090",
@@ -6020,7 +6020,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "208",
         "Versão": "STYLE 1.0 FLEX 6V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ecosport-xls-16-16-flex-8v-5p-20082009/262835",
@@ -6115,7 +6115,7 @@
         "Marca": "FORD",
         "Modelo": "Focus",
         "Versão": "SED. TI./TI.PLUS 2.0 16V FLEX  AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-long-t270-13-tb-4x2-flex-aut-20222022/268799",
@@ -6134,7 +6134,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONG. T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-strada-adv-m-march18-dual-flex-cd-20122013/267942",
@@ -6172,7 +6172,7 @@
         "Marca": "FIAT",
         "Modelo": "ARGO",
         "Versão": "DRIVE 1.3 8V FLEX",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-captur-16-16v-sce-flex-life-x-tronic-2021/233199",
@@ -6191,7 +6191,7 @@
         "Marca": "RENAULT",
         "Modelo": "CAPTUR",
         "Versão": "INTENSE 1.6 16V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-corolla-xei-20-flex-16v-aut-20102011/261699",
@@ -6248,7 +6248,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "ONIX",
         "Versão": "SEDAN PLUS LTZ 1.0 12V TB FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-fiesta-15-16v-flex-mec-5p-20152016/269306",
@@ -6305,7 +6305,7 @@
         "Marca": "FORD",
         "Modelo": "EDGE",
         "Versão": "ST 2.7 V6 24V AWD AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jac-t60-plus-15-turbo-16v-5p-aut-20212022/259133",
@@ -6324,7 +6324,7 @@
         "Marca": "JAC",
         "Modelo": "T60",
         "Versão": "PLUS 1.5 TURBO 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-cruze-lt-14-16v-turbo-flex-4p-aut-20192019/251099",
@@ -6438,7 +6438,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Nivus",
         "Versão": "HIGHLINE 1.0 200 TSI FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-208-allure-16-flex-16v-5p-aut-20162017/266499",
@@ -6476,7 +6476,7 @@
         "Marca": "FIAT",
         "Modelo": "FASTBACK",
         "Versão": "IMPETUS 1.0 200 T. FLEX AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-limited-10-tb-12v-flex-aut-20232023/267258",
@@ -6495,7 +6495,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "LIMITED 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-sport-t270-13-tb-4x2-flex-aut-20232023/259140",
@@ -6514,7 +6514,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-march-sv-16-16v-flexstart-5p-mec-20192019/265663",
@@ -6609,7 +6609,7 @@
         "Marca": "HONDA",
         "Modelo": "Fit",
         "Versão": "LX 1.5 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-10-mi-total-flex-8v-5p-20122013/270075",
@@ -6628,7 +6628,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Fox",
         "Versão": "1.0 MI TOTAL FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-tracker-premier-12-turbo-12v-flex-aut-20242025/265746",
@@ -6685,7 +6685,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "SENSE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-208-griffe-16-flex-16v-5p-aut-20212022/269866",
@@ -6818,7 +6818,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "PRISMA",
         "Versão": "SED. LTZ 1.4 8V FLEXPOWER 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-exclusive-16-16v-flex-aut-20222023/242521",
@@ -6837,7 +6837,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "EXCLUSIVE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-fiorino-endurance-evo-14-flex-8v-2p-20242025/268861",
@@ -6856,7 +6856,7 @@
         "Marca": "FIAT",
         "Modelo": "Fiorino",
         "Versão": "ENDURANCE EVO 1.4 FLEX 8V 2P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-std-18-4x2-flex-16v-aut-20212021/259473",
@@ -6875,7 +6875,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "STD 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/citroen-c3-live-pack-10-flex-6v-5p-mec-20242025/262767",
@@ -6932,7 +6932,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20",
         "Versão": "EVOLUTION 1.0 FLEX 12V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-freedom-20-16v-4x4-tb-diesel-aut-20202021/250828",
@@ -6951,7 +6951,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "FREEDOM 2.0 16V 4X4 TB DIESEL AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-evolution-bluelink-10-flex-12v-mec-20212022/268430",
@@ -6970,7 +6970,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20",
         "Versão": "EVOLUTION BLUELINK 1.0 FLEX 12V MEC",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-highline-tsi-10-flex-12v-aut-20242025/237265",
@@ -6989,7 +6989,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "HIGHLINE TSI 1.0 FLEX 12V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ecosport-se-15-12v-flex-5p-aut-20192019/262115",
@@ -7008,7 +7008,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "SE 1.5 12V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-208-active-16-flex-16v-5p-aut-20212021/270374",
@@ -7027,7 +7027,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "208",
         "Versão": "ACTIVE 1.6 FLEX 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-jetta-14-250-tsi-total-flex-r-line-tiptronic-2020/265983",
@@ -7046,7 +7046,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "JETTA",
         "Versão": "R-LINE 250 TSI 1.4 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-corolla-xei-1818-flex-16v-mec-20092010/267893",
@@ -7065,7 +7065,7 @@
         "Marca": "TOYOTA",
         "Modelo": "Corolla",
         "Versão": "XEI 1.8/1.8 FLEX 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-versa-v-drive-plus-16-16v-flex-aut-20202021/269885",
@@ -7084,7 +7084,7 @@
         "Marca": "NISSAN",
         "Modelo": "VERSA",
         "Versão": "V-DRIVE PLUS 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ecosport-titanium-15-12v-flex-5p-aut-20192020/262143",
@@ -7103,7 +7103,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "TITANIUM 1.5 12V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-pulse-audace-10-turbo-200-flex-aut-20222022/269624",
@@ -7198,7 +7198,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "ONIX",
         "Versão": "SEDAN PLUS LT 1.0 12V TB FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ka-10-sese-plus-tivct-flex-5p-20182019/246888",
@@ -7217,7 +7217,7 @@
         "Marca": "FORD",
         "Modelo": "KA",
         "Versão": "1.0 SE/SE PLUS TIVCT FLEX 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ranger-xls-22-4x4-cd-diesel-aut-20182019/267759",
@@ -7255,7 +7255,7 @@
         "Marca": "TOYOTA",
         "Modelo": "Corolla",
         "Versão": "XEI 2.0 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-13-t270-4x2-flex-aut-20252025/265739",
@@ -7293,7 +7293,7 @@
         "Marca": "HONDA",
         "Modelo": "CITY",
         "Versão": "SEDAN EXL 1.5 FLEX  16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20s-copa-mundo-qatar-10-flex-mec-20222023/267493",
@@ -7407,7 +7407,7 @@
         "Marca": "HONDA",
         "Modelo": "CITY",
         "Versão": "SEDAN EX 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-spin-premier-18-8v-econoflex-5p-aut-20232024/254508",
@@ -7426,7 +7426,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "SPIN",
         "Versão": "PREMIER 1.8 8V ECONO.FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-compass-long-t270-13-tb-4x2-flex-aut-20232023/269517",
@@ -7445,7 +7445,7 @@
         "Marca": "JEEP",
         "Modelo": "COMPASS",
         "Versão": "LONG. T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-versa-exclusive-16-16v-flex-aut-20252025/256178",
@@ -7464,7 +7464,7 @@
         "Marca": "NISSAN",
         "Modelo": "VERSA",
         "Versão": "EXCLUSIVE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-sense-10-flex-12v-mec-20212021/269094",
@@ -7483,7 +7483,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20",
         "Versão": "SENSE 1.0 FLEX 12V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-fastback-impetus-10-200-t-flex-aut-20222023/269855",
@@ -7502,7 +7502,7 @@
         "Marca": "FIAT",
         "Modelo": "FASTBACK",
         "Versão": "IMPETUS 1.0 200 T. FLEX AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-freedom-18-16v-flex-aut-20202021/264272",
@@ -7578,7 +7578,7 @@
         "Marca": "JEEP",
         "Modelo": "COMPASS",
         "Versão": "LONG. T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-compass-sport-20-4x2-flex-16v-aut-20182018/268515",
@@ -7616,7 +7616,7 @@
         "Marca": "RENAULT",
         "Modelo": "KWID",
         "Versão": "ZEN 1.0 FLEX 12V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-sport-t270-13-tb-4x2-flex-aut-20232024/263764",
@@ -7635,7 +7635,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT T270 1.3 TB 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-sandero-stepway-zen-flex-10-12v-mec-20242025/262909",
@@ -7654,7 +7654,7 @@
         "Marca": "RENAULT",
         "Modelo": "SANDERO STEPWAY",
         "Versão": "ZEN FLEX 1.0 12V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/land-rover-freelander2-i6-hse-32-232cv-aut-5p-20102010/267004",
@@ -7673,7 +7673,7 @@
         "Marca": "LAND ROVER",
         "Modelo": "Freelander2",
         "Versão": "I6 HSE 3.2 232CV AUT. 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-onix-hatch-ltz-14-8v-flexpower-5p-mec-20152016/265673",
@@ -7730,7 +7730,7 @@
         "Marca": "HONDA",
         "Modelo": "Civic",
         "Versão": "SEDAN EXL 2.0 FLEX 16V AUT.4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-highline-200-tsi-10-flex-12v-aut-20192019/260793",
@@ -7749,7 +7749,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "HIGHLINE 200 TSI 1.0 FLEX 12V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-hr-v-exl-15-sensing-16v-5p-aut-20232024/261660",
@@ -7825,7 +7825,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Gol",
         "Versão": "1000 (MODELO ANTIGO)",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-sport-18-4x2-flex-16v-aut-20212021/238141",
@@ -7844,7 +7844,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/suzuki-jimny-jimny-wide-4all-13-16v-20182019/268352",
@@ -7882,7 +7882,7 @@
         "Marca": "AUDI",
         "Modelo": "Q3",
         "Versão": "PERF. BLACK 2.0 TFSI TIPTR. QUATTRO",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-hr-v-ex-18-flexone-16v-5p-aut-20172017/266655",
@@ -7901,7 +7901,7 @@
         "Marca": "HONDA",
         "Modelo": "HR-V",
         "Versão": "EX 1.8 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/mitsubishi-asx-20-4x2-16v-flex-4p-automatico-2018/244379",
@@ -7939,7 +7939,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "ONIX",
         "Versão": "HATCH PREM. 1.0 12V TB FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/suzuki-jimny-sierra-4you-allgrip-15-16v-mec-20212022/268114",
@@ -7958,7 +7958,7 @@
         "Marca": "SUZUKI",
         "Modelo": "Jimny",
         "Versão": "SIERRA 4YOU ALLGRIP 1.5 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-t-cross-hig-250-tsi-14-flex-16v-5p-aut-20222022/264369",
@@ -8053,7 +8053,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "up!",
         "Versão": "TAKE 1.0 TOTAL FLEX 12V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-versa-unique-16-16v-flexstart-4p-aut-20172017/270112",
@@ -8072,7 +8072,7 @@
         "Marca": "NISSAN",
         "Modelo": "VERSA",
         "Versão": "UNIQUE 1.6 16V FLEXSTART 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-montana-premier-12-turbo-flex-12v-aut-20232023/268164",
@@ -8091,7 +8091,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "MONTANA",
         "Versão": "PREMIER 1.2 TURBO FLEX 12V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-208-griffe-16-flex-16v-5p-aut-20162017/264538",
@@ -8129,7 +8129,7 @@
         "Marca": "CITROËN",
         "Modelo": "C4",
         "Versão": "CACTUS FEEL 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-nivus-comfortline-10-200-tsi-flex-aut-20212021/260157",
@@ -8148,7 +8148,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Nivus",
         "Versão": "COMFORTLINE 1.0 200 TSI FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-commander-overland-t270-13-tb-flex-aut-20232023/246191",
@@ -8167,7 +8167,7 @@
         "Marca": "JEEP",
         "Modelo": "Commander",
         "Versão": "OVERLAND T270 1.3 TB FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-13-t270-4x2-flex-aut-20222022/270365",
@@ -8224,7 +8224,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20",
         "Versão": "C./C.PLUS/C.STYLE 1.6 FLEX 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-wr-v-ex-15-flexone-16v-5p-aut-20212021/268109",
@@ -8300,7 +8300,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONGITUDE 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-fastback-audace-10-200-t-flex-aut-20242024/269825",
@@ -8338,7 +8338,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "T-Cross",
         "Versão": "SENSE 1.0 TSI FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-3008-griffe-16-turbo-16v-5p-aut-20182019/269139",
@@ -8357,7 +8357,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "3008",
         "Versão": "GRIFFE 1.6 TURBO 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-r-spec-16-flex-16v-aut-20172017/268053",
@@ -8395,7 +8395,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "EXCLUSIVE 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-corolla-cross-20-vvt-ie-flex-xre-direct-shift-2025/255816",
@@ -8414,7 +8414,7 @@
         "Marca": "TOYOTA",
         "Modelo": "Corolla",
         "Versão": "CROSS XRE 2.0 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-fastback-limited-ed13-270-tflex-aut-20232023/263473",
@@ -8471,7 +8471,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "N LINE 1.0 TB 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-sandero-stepway-exp-flex-16-16v-5p-20182019/264294",
@@ -8490,7 +8490,7 @@
         "Marca": "RENAULT",
         "Modelo": "SANDERO",
         "Versão": "STEPWAY EXP. FLEX 1.6 16V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/mitsubishi-pajero-tr4-20-20-flex-16v-4x4-aut-20122013/270153",
@@ -8547,7 +8547,7 @@
         "Marca": "RENAULT",
         "Modelo": "KWID",
         "Versão": "INTENSE 1.0 FLEX 12V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-compass-longitude-20-4x4-dies-16v-aut-20172018/269285",
@@ -8566,7 +8566,7 @@
         "Marca": "JEEP",
         "Modelo": "COMPASS",
         "Versão": "LONGITUDE 2.0 4X4 DIES. 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-kwid-intense-10-flex-12v-5p-mec-20212022/260046",
@@ -8642,7 +8642,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONGITUDE 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-nivus-10-200-tsi-total-flex-highline-automatico-2021/246004",
@@ -8680,7 +8680,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "CHEVETTE",
         "Versão": "L / SL / SL/E / DL / SE 1.6",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-pepper-16-flex-16v-5p-20162016/269000",
@@ -8737,7 +8737,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "ONIX",
         "Versão": "HATCH JOY 1.0 8V FLEX 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-captur-intense-20-16v-flex-5p-aut-20172018/264630",
@@ -8794,7 +8794,7 @@
         "Marca": "NISSAN",
         "Modelo": "KICKS",
         "Versão": "S 1.6 16V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-kwid-intense-10-flex-12v-5p-mec-20182019/265123",
@@ -8832,7 +8832,7 @@
         "Marca": "TOYOTA",
         "Modelo": "YARIS",
         "Versão": "XL 1.5 FLEX 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-xtreme-16-flex-8v-5p-20182018/251308",
@@ -8870,7 +8870,7 @@
         "Marca": "NISSAN",
         "Modelo": "LIVINA",
         "Versão": "GRAND S 1.8 16V FLEX FUEL MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-hr-v-ex-18-flexone-16v-5p-aut-20152016/268143",
@@ -8889,7 +8889,7 @@
         "Marca": "HONDA",
         "Modelo": "HR-V",
         "Versão": "EX 1.8 FLEXONE 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-etios-xs-15-flex-16v-5p-aut-20172018/266256",
@@ -8965,7 +8965,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "208",
         "Versão": "STYLE 1.0 FLEX 6V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-20-16v-4x4-tb-diesel-aut-20172018/267274",
@@ -9117,7 +9117,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "LONGITUDE 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-onix-hatch-prem-10-12v-tb-flex-5p-aut-20212022/270043",
@@ -9174,7 +9174,7 @@
         "Marca": "JEEP",
         "Modelo": "COMPASS",
         "Versão": "LIMITED 2.0 4X4 DIESEL 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-creta-prestige-20-16v-flex-aut-20182019/261801",
@@ -9193,7 +9193,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "Creta",
         "Versão": "PRESTIGE 2.0 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-13-t270-turbo-flex-sport-at6-2024/254073",
@@ -9212,7 +9212,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "S T270 1.3 TB 4X4 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-comf-plus-tech-10-tb-flex-12v-aut-20242025/268529",
@@ -9250,7 +9250,7 @@
         "Marca": "TOYOTA",
         "Modelo": "Corolla",
         "Versão": "GR-SPORT 2.0 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-corolla-cross-20-vvt-ie-flex-xr-direct-shift-2024/256061",
@@ -9288,7 +9288,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "FREESTYLE 1.5 12V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-16-mi-i-motion-total-flex-8v-5p-20102011/263467",
@@ -9326,7 +9326,7 @@
         "Marca": "CAOA CHERY",
         "Modelo": "TIGGO",
         "Versão": "3X PRO 1.0 TURBO FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-volcano-13-t270-4x2-flex-aut-20242025/268660",
@@ -9345,7 +9345,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "VOLCANO 1.3 T270 4X2 FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-montana-sport-18-mpfi-flexpower-8v-20082008/270414",
@@ -9364,7 +9364,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "MONTANA",
         "Versão": "SPORT 1.8 MPFI FLEXPOWER 8V",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volvo-xc-60-t-5-r-design-20-fwd-5p-20142014/268612",
@@ -9459,7 +9459,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Fox",
         "Versão": "ROUTE 1.0 MI TOTAL FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-2008-allure-10-turbo-flex-5p-aut-20242025/264506",
@@ -9497,7 +9497,7 @@
         "Marca": "RENAULT",
         "Modelo": "CAPTUR",
         "Versão": "INTENSE 2.0 16V FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-yaris-xl-13-flex-16v-5p-aut-20192019/267016",
@@ -9592,7 +9592,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "Classic",
         "Versão": "LIFE/LS 1.0 VHC FLEXP. 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-up-pepper-10-tsi-tflex-12v-5p-20182019/262109",
@@ -9611,7 +9611,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "up!",
         "Versão": "PEPPER 1.0 TSI T.FLEX 12V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chery-tiggo-8-pro-15-tci-plug-in-hybrid-dht-2024/252476",
@@ -9630,7 +9630,7 @@
         "Marca": "CHERY",
         "Modelo": "Tiggo",
         "Versão": "8 TXS 1.6 16V TGDI AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-civic-sedan-exs-1818-flex-16v-aut-4p-20122013/266167",
@@ -9649,7 +9649,7 @@
         "Marca": "HONDA",
         "Modelo": "Civic",
         "Versão": "SEDAN EXS 1.8/1.8 FLEX 16V AUT. 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/renault-kwid-outsider-10-flex-12v-5p-mec-20232024/243844",
@@ -9725,7 +9725,7 @@
         "Marca": "FORD",
         "Modelo": "EcoSport",
         "Versão": "SE 1.5 12V FLEX 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-18-4x2-flex-16v-mec-20162016/269292",
@@ -9744,7 +9744,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "1.8 4X2 FLEX 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-tracker-lt-14-turbo-16v-flex-4x2-aut-20182019/247157",
@@ -9763,7 +9763,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "TRACKER",
         "Versão": "LT 1.4 TURBO 16V FLEX 4X2 AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/audi-q3-14-tfsitfsi-flex-s-tronic-5p-20152016/258194",
@@ -9839,7 +9839,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "ULTRA 2.0 16V 4X4 TB DIESEL AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-strada-endurance-14-flex-8v-cs-plus-20232023/267096",
@@ -9858,7 +9858,7 @@
         "Marca": "FIAT",
         "Modelo": "Strada",
         "Versão": "ENDURANCE 1.4 FLEX 8V CS PLUS",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-etios-platinum-sed-15-flex-16v-4p-aut-20162017/267162",
@@ -9877,7 +9877,7 @@
         "Marca": "TOYOTA",
         "Modelo": "ETIOS",
         "Versão": "PLATINUM SED. 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-comfort-plus-10-flex-12v-mec-20172018/264834",
@@ -9896,7 +9896,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20",
         "Versão": "COMFORT PLUS 1.0 FLEX 12V MEC",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/hyundai-hb20-comfcpluscstyle-10-flex-12v-20162016/256015",
@@ -9934,7 +9934,7 @@
         "Marca": "FIAT",
         "Modelo": "500",
         "Versão": "CULT 1.4 FLEX 8V EVO MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ecosport-se-direct-15-flex-5p-aut-20192020/269258",
@@ -9972,7 +9972,7 @@
         "Marca": "TOYOTA",
         "Modelo": "YARIS",
         "Versão": "XL 1.5 FLEX 16V 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-highline-tsi-10-flex-12v-aut-20242025/251459",
@@ -9991,7 +9991,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "HIGHLINE TSI 1.0 FLEX 12V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/audi-q5-ambiente-20-tfsi-quattro-s-tronic-20172018/245655",
@@ -10010,7 +10010,7 @@
         "Marca": "AUDI",
         "Modelo": "Q5",
         "Versão": "AMBIENTE 2.0 TFSI QUATTRO S TRONIC",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-toro-22-turbo-diesel-ranch-4wd-at9-2026/267659",
@@ -10029,7 +10029,7 @@
         "Marca": "FIAT",
         "Modelo": "Toro",
         "Versão": "RANCH 2.2 16V 4X4 TB DIESEL AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/bmw-x1-sdrive-20i-2020-tb-actiflex-aut-20182018/268079",
@@ -10143,7 +10143,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "TRACKER",
         "Versão": "PREMIER 1.4 TURBO 16V FLEX AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-fit-exs-15-flexflexone-16v-5p-aut-20142015/269491",
@@ -10200,7 +10200,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20",
         "Versão": "VISION 1.0 FLEX 12V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/honda-hr-v-lx-18-flexone-16v-5p-aut-20192020/233515",
@@ -10276,7 +10276,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "TIGUAN",
         "Versão": "2.0 TSI 16V 200CV TIPTRONIC 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-tracker-ltz-18-16v-flex-4x2-aut-20142015/268653",
@@ -10352,7 +10352,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Fox",
         "Versão": "XTREME 1.6 FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-track-10-flex-12v-5p-20242025/245035",
@@ -10371,7 +10371,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "TRACK 1.0 FLEX 12V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-2008-griffe-16-flex-16v-5p-aut-20172017/264602",
@@ -10428,7 +10428,7 @@
         "Marca": "RENAULT",
         "Modelo": "KWID",
         "Versão": "OUTSIDER 1.0 FLEX 12V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/mitsubishi-eclipse-cross-hpe-s-15-16v-165cv-aut-20222023/245593",
@@ -10485,7 +10485,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "SPACEFOX",
         "Versão": "COMFORTLINE 1.6 MI T.FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-t-cross-comfortline-10-tsi-flex-5p-aut-20192020/265504",
@@ -10523,7 +10523,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20X",
         "Versão": "STYLE 1.6 FLEX 16V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/citroen-c3-picasso-glx-15-flex-8v-5p-mec-20132014/267743",
@@ -10561,7 +10561,7 @@
         "Marca": "LAND ROVER",
         "Modelo": "Range",
         "Versão": "R. EVO HSE SI4 R-DYN.2.0 300CV AUT",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-compass-longitude-20-4x2-flex-16v-aut-20162017/269205",
@@ -10599,7 +10599,7 @@
         "Marca": "HYUNDAI",
         "Modelo": "HB20",
         "Versão": "UNIQUE 1.0 FLEX 12V MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-advance-16-16v-flex-aut-20242024/264343",
@@ -10656,7 +10656,7 @@
         "Marca": "AUDI",
         "Modelo": "A3",
         "Versão": "SEDAN 1.4 TFSI FLEX TIPTRONIC 4P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-compass-20-16v-flex-limited-automatico-2021/196483",
@@ -10675,7 +10675,7 @@
         "Marca": "JEEP",
         "Modelo": "COMPASS",
         "Versão": "LIMITED 2.0 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/audi-q3-20-tfsi-quat-211220cv-s-tronic-5p-20162016/265936",
@@ -10808,7 +10808,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade",
         "Versão": "SPORT 1.8 4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/ford-ka-10-sese-plus-tivct-flex-5p-20192020/267363",
@@ -10884,7 +10884,7 @@
         "Marca": "JEEP",
         "Modelo": "Renegade1.8",
         "Versão": "4X2 FLEX 16V AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-argo-drive-10-6v-flex-20232024/270572",
@@ -10922,7 +10922,7 @@
         "Marca": "PEUGEOT",
         "Modelo": "2008",
         "Versão": "ALLURE 1.0 TURBO FLEX 5P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/peugeot-208-activeactive-pack-15-flex-8v-5p-20142015/270611",
@@ -10960,7 +10960,7 @@
         "Marca": "FIAT",
         "Modelo": "Uno",
         "Versão": "ATTRACTIVE 1.0 FIRE FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-saveiro-trendline-16-tflex-8v-20142015/260139",
@@ -11055,7 +11055,7 @@
         "Marca": "TOYOTA",
         "Modelo": "ETIOS",
         "Versão": "XLS 1.5 FLEX 16V 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/chevrolet-onix-hatch-lt-10-8v-flexpower-5p-mec-20192019/270499",
@@ -11074,7 +11074,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "ONIX",
         "Versão": "HATCH LT 1.0 8V FLEXPOWER 5P MEC.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-uno-way-10-evo-fire-flex-8v-5p-20152016/270556",
@@ -11093,7 +11093,7 @@
         "Marca": "FIAT",
         "Modelo": "Uno",
         "Versão": "WAY 1.0 EVO FIRE FLEX 8V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/subaru-xv-2020-s-16v-4x4-aut-20152016/270595",
@@ -11131,7 +11131,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "MONTANA",
         "Versão": "LTZ 1.2 TURBO FLEX 12V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/toyota-yaris-xl-sedan-15-flex-16v-4p-aut-20242025/270467",
@@ -11150,7 +11150,7 @@
         "Marca": "TOYOTA",
         "Modelo": "YARIS",
         "Versão": "XL SEDAN 1.5 FLEX 16V 4P AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-track-10-flex-12v-5p-20242025/270587",
@@ -11264,7 +11264,7 @@
         "Marca": "CHEVROLET",
         "Modelo": "TRACKER",
         "Versão": "PREMIER 1.2 TURBO 12V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/nissan-kicks-16-16v-flexstart-advance-xtronic-2024/270624",
@@ -11340,7 +11340,7 @@
         "Marca": "RENAULT",
         "Modelo": "SANDERO",
         "Versão": "STEPWAY FLEX 1.6 16V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/fiat-pulse-drive-10-turbo-200-flex-aut-20232023/270517",

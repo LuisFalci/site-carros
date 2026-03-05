@@ -2467,7 +2467,7 @@
         "Marca": "RENAULT",
         "Modelo": "DUSTER",
         "Versão": "ZEN 1.6 16V FLEX AUT.",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-10-mpi-flex-12v-5p-20232023/267395",
@@ -11625,6 +11625,44 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "TRACK 1.0 FLEX 12V 5P",
+        "status": "disponivel"
+    },
+    {
+        "url": "https://centercarjf.com.br/veiculo/volkswagen-logus-gli-gl-18-19961996/270748",
+        "data_coleta": "2026-03-05 14:16:48",
+        "preco": "R$39.900,00",
+        "nome_principal": "VOLKSWAGEN Logus",
+        "Quilometragem": "37.000 km",
+        "Combustível": "GASOLINA",
+        "Motor": "1.8",
+        "Câmbio": "Manual",
+        "Carroceria": "SEDAN",
+        "Cor": "PRATA",
+        "Portas": "4",
+        "Ano Modelo": "1996",
+        "Ano Fabricação": "1996",
+        "Marca": "VOLKSWAGEN",
+        "Modelo": "Logus",
+        "Versão": "GLI / GL 1.8",
+        "status": "disponivel"
+    },
+    {
+        "url": "https://centercarjf.com.br/veiculo/volkswagen-fox-10-mi-total-flex-8v-5p-20132013/270744",
+        "data_coleta": "2026-03-05 14:16:51",
+        "preco": "R$39.900,00",
+        "nome_principal": "VOLKSWAGEN Fox",
+        "Quilometragem": "108.000 km",
+        "Combustível": "FLEX",
+        "Motor": "1.0",
+        "Câmbio": "Manual",
+        "Carroceria": "HATCH",
+        "Cor": "PRATA",
+        "Portas": "4",
+        "Ano Modelo": "2013",
+        "Ano Fabricação": "2013",
+        "Marca": "VOLKSWAGEN",
+        "Modelo": "Fox",
+        "Versão": "1.0 MI TOTAL FLEX 8V 5P",
         "status": "disponivel"
     }
 ]

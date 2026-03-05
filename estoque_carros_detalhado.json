@@ -1612,7 +1612,7 @@
         "Marca": "VOLKSWAGEN",
         "Modelo": "Polo",
         "Versão": "TRACK 1.0 FLEX 12V 5P",
-        "status": "disponivel"
+        "status": "vendido"
     },
     {
         "url": "https://centercarjf.com.br/veiculo/jeep-renegade-longitude-18-4x2-flex-16v-aut-20212021/269110",
@@ -11378,6 +11378,44 @@
         "Marca": "JEEP",
         "Modelo": "COMPASS",
         "Versão": "LONGITUDE 2.0 4X2 FLEX 16V AUT.",
+        "status": "disponivel"
+    },
+    {
+        "url": "https://centercarjf.com.br/veiculo/renault-sandero-stepway-iconic-flex-16-16v-aut-20212022/270648",
+        "data_coleta": "2026-03-05 11:09:49",
+        "preco": "R$78.900,00",
+        "nome_principal": "RENAULT SANDERO STEPWAY",
+        "Quilometragem": "14.253 km",
+        "Combustível": "FLEX",
+        "Motor": "1.6",
+        "Câmbio": "Automático",
+        "Carroceria": "HATCH",
+        "Cor": "PRATA",
+        "Portas": "4",
+        "Ano Modelo": "2022",
+        "Ano Fabricação": "2021",
+        "Marca": "RENAULT",
+        "Modelo": "SANDERO STEPWAY",
+        "Versão": "ICONIC FLEX 1.6 16V AUT.",
+        "status": "disponivel"
+    },
+    {
+        "url": "https://centercarjf.com.br/veiculo/mitsubishi-asx-20-16v-4x4-flex-aut-20152016/270642",
+        "data_coleta": "2026-03-05 11:09:52",
+        "preco": "R$80.900,00",
+        "nome_principal": "MITSUBISHI ASX",
+        "Quilometragem": "118.201 km",
+        "Combustível": "FLEX",
+        "Motor": "2.0",
+        "Câmbio": "Automático",
+        "Carroceria": "SUV",
+        "Cor": "CINZA",
+        "Portas": "4",
+        "Ano Modelo": "2016",
+        "Ano Fabricação": "2015",
+        "Marca": "MITSUBISHI",
+        "Modelo": "ASX",
+        "Versão": "2.0 16V 4X4 FLEX AUT.",
         "status": "disponivel"
     }
 ]

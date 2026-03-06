@@ -51,22 +51,24 @@ def pegar_links_da_vitrine(driver):
         print(f"Lendo página {pagina_atual}...")
         
         try:
-            # Aguarda a presença dos links dos carros
+            # 1. Atualizamos o Wait para esperar por qualquer link de veículo, e não mais pelo dmi-card
             WebDriverWait(driver, 20).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, ".dmi-card a"))
+                EC.presence_of_element_located((By.CSS_SELECTOR, "a[href*='/veiculo/']"))
             )
             time.sleep(2) # Pausa para renderização do Angular
             
             soup = BeautifulSoup(driver.page_source, 'html.parser')
-            cards = soup.find_all('div', class_='dmi-card')
             
-            for card in cards:
-                tag_a = card.find('a')
-                if tag_a and 'href' in tag_a.attrs:
-                    link = tag_a['href']
-                    if link.startswith('/'):
-                        link = f"{URL_BASE}{link}"
-                    links_totais.add(link)
+            # 2. NOVA LÓGICA: Busca todas as tags <a> cujo href contenha '/veiculo/'
+            tags_a = soup.find_all('a', href=lambda href: href and '/veiculo/' in href)
+            
+            for tag_a in tags_a:
+                link = tag_a['href']
+                if link.startswith('/'):
+                    link = f"{URL_BASE}{link}"
+                
+                # Adiciona ao set (o set já ignora duplicatas automaticamente)
+                links_totais.add(link)
             
             # --- Lógica de Paginação ---
             try:
@@ -85,7 +87,7 @@ def pegar_links_da_vitrine(driver):
                 break
                 
         except Exception as e:
-            print(f"Erro na navegação da vitrine: {e}")
+            print(f"Erro na navegação da vitrine (ou fim dos carros): {e}")
             break
 
     return list(links_totais)

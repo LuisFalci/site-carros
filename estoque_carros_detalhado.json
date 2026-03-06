@@ -11835,5 +11835,24 @@
         "Modelo": "HB20S",
         "Versão": "PREMIUM 1.6 FLEX 16V AUT. 4P",
         "status": "disponivel"
+    },
+    {
+        "url": "https://centercarjf.com.br/veiculo/volkswagen-polo-comfort-200-tsi-10-flex-12v-aut-20222022/270849",
+        "data_coleta": "2026-03-06 08:51:12",
+        "preco": "R$90.900,00",
+        "nome_principal": "VOLKSWAGEN Polo",
+        "Quilometragem": "39.500 km",
+        "Combustível": "FLEX",
+        "Motor": "1.0",
+        "Câmbio": "Automático",
+        "Carroceria": "HATCH",
+        "Cor": "PRETO",
+        "Portas": "4",
+        "Ano Modelo": "2022",
+        "Ano Fabricação": "2022",
+        "Marca": "VOLKSWAGEN",
+        "Modelo": "Polo",
+        "Versão": "COMFORT. 200 TSI 1.0 FLEX 12V AUT.",
+        "status": "disponivel"
     }
 ]
